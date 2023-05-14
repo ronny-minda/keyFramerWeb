@@ -19,6 +19,7 @@ const Svg = () => {
   return (
     <motion.div
       style={{ position: "absolute" }}
+      initial={{ scale: 0.7 }}
       transition={{ duration: 10, repeat: Infinity }}
       animate={{
         y: [15, -15, 15],
