@@ -241,7 +241,7 @@ const Svg = () => {
             y2="211"
             gradientUnits="userSpaceOnUse"
           >
-            <stop stop-color="#7A88A1" />
+            <stop stopColor="#7A88A1" />
             <stop offset="0.296875" stopColor="#394453" />
           </linearGradient>
           <linearGradient
